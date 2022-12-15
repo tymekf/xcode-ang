@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+
+body {
+  font-family: Calibri, sans-serif;
+  color: black;
+  margin: auto;
+  text-align: center;
+}
+
+h1{
+  align-content: center;
+  color: black;
+}
+
+button {
+  background-color: snow;
+  font-family: Calibri, sans-serif;
+  color: black;
+}
+
+input {
+  background-color: ivory;
+  font-family: Calibri, sans-serif;
+  color: black;
+}
